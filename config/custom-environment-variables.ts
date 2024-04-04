@@ -1,0 +1,18 @@
+export default {
+  dbUserName: "MONGODB_USERNAME",
+  dbName: "MONGODB_DATABASE_NAME",
+  dbPass: "MONGODB_PASSWORD",
+  clusterId: "MONGODB_CLUSTER_ID",
+  accessTokenPrivateKey: "ACCESS_TOKEN_PRIVATE_KEY",
+  accessTokenPublicKey: "ACCESS_TOKEN_PUBLIC_KEY",
+  refreshTokenPrivateKey: "REFRESH_TOKEN_PRIVATE_KEY",
+  refreshTokenPublicKey: "REFRESH_TOKEN_PUBLIC_KEY",
+  environment: "NODE_ENV",
+  email: "EMAIL",
+  password: "PASSWORD",
+  accessKeyIdAWS: "AWS_ACCESS_KEY_ID",
+  secretAccessKeyAWS: "AWS_SECRET_ACCESS_KEY",
+  regionS3: "S3_REGION",
+  BucketS3: "S3_BUCKET",
+  googleClientId: "GOOGLE_CLIENT_ID",
+};
